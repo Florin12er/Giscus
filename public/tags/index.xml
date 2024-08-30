@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Florin Blog</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Florin Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Apetrei Florin Sebastian)</managingEditor>
+    <webMaster>youremail@example.com (Apetrei Florin Sebastian)</webMaster>
+    <copyright>© 2024 Apetrei Florin Sebastian</copyright>
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://example.org/tags/ai/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>example</title>
+      <link>https://example.org/tags/example/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/tags/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tag</title>
+      <link>https://example.org/tags/tag/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/tags/tag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Technology Trends</title>
+      <link>https://example.org/tags/technology-trends/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/tags/technology-trends/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://example.org/tags/web-development/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/tags/web-development/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

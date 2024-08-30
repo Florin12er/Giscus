@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Blowfish! on Florin Blog</title>
+    <link>https://example.org/test/</link>
+    <description>Recent content in Welcome to Blowfish! on Florin Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Apetrei Florin Sebastian)</managingEditor>
+    <webMaster>youremail@example.com (Apetrei Florin Sebastian)</webMaster>
+    <copyright>© 2024 Apetrei Florin Sebastian</copyright>
+    <atom:link href="https://example.org/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Blowfish!</title>
+      <link>https://example.org/test/anothertest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/test/anothertest/</guid>
+      <description>Welcome to my website!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/test/anothertest/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

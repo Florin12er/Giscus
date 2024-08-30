@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Into the Lion&#39;s Den on Florin Blog</title>
+    <link>https://example.org/animals/</link>
+    <description>Recent content in Into the Lion&#39;s Den on Florin Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Apetrei Florin Sebastian)</managingEditor>
+    <webMaster>youremail@example.com (Apetrei Florin Sebastian)</webMaster>
+    <copyright>© 2024 Apetrei Florin Sebastian</copyright>
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>animal</title>
+      <link>https://example.org/animals/lion/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/animals/lion/</guid>
+      <description> here all the animals # </description>
+      
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://example.org/animals/youtube/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Apetrei Florin Sebastian)</author>
+      <guid>https://example.org/animals/youtube/</guid>
+      <description> here all the animals # </description>
+      
+    </item>
+    
+  </channel>
+</rss>
