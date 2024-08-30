@@ -17,9 +17,3 @@ Check more at [Blowfish documentation](https://blowfish.page/)
 ```javascript
 console.log('hello world');
 ```
-{{< alert "tip" >}}
-This is a helpful tip for your readers!
-{{< /alert >}}
-{{< alert "warning" >}}
-Warning: This action cannot be undone!
-{{< /alert >}}
